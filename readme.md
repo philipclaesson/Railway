@@ -1,6 +1,6 @@
-#Railway
+# Railway
 
-#This was done for an old Spotify Coding Challenge that was available on Kattis.com. 
+## This is a solution for an old Spotify Coding Challenge that was available on Kattis.com. 
 
 The task was to find a shortest cycle in a set of threeway connections (railway), and if such a cycle exists, return the name of the connections. 
 
